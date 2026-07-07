@@ -5,9 +5,9 @@ import { writeFileSync } from "node:fs";
 const KEY = process.env.BREVO_API_KEY;
 if (!KEY) { console.error("Manca il segreto BREVO_API_KEY"); process.exit(1); }
 
-const EXCLUDE_CATEGORIES = ["196", "364"]; // 196 = merchandising (magliette), 364 = chiodini/schiaccini
-const JUNK_NAME = /t-?shirt|video tutorial|qr\s?code|qrcode/i;
-const MIN_PRICE = 3;   // scarta la minuteria sotto i 3 euro
+const EXCLUDE_CATEGORIES = ["2", "127", "196", "364"];
+const JUNK_NAME = /t-?shirt|video tutorial|qr\s?code|qrcode|bottoni?|chiusur|parure/i;
+const MIN_PRICE = 5;
 const N = 6;           // quanti prodotti mostrare
 
 const url = "https://api.brevo.com/v3/products?limit=100&offset=0&sort=desc&sortByField=created_at&isDeleted=false";
