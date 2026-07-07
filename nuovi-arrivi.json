@@ -1,13 +1,7 @@
 {
-  "updated": "2026-07-07T15:38:54.353Z",
+  "updated": "2026-07-07T15:46:04.065Z",
   "count": 6,
   "items": [
-    {
-      "name": "VIP2617 A Parure Rosa",
-      "url": "https://www.tessiland.com/it/catalogo-prodotti/21354-vip2617-a-parure-rosa.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21354/original/image_1.png",
-      "price": "28,62 €"
-    },
     {
       "name": "Borsa Sea Shell Kit fai da te",
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21353-borsa-sea-shell-kit-fai-da-te.html",
@@ -27,16 +21,22 @@
       "price": "46,90 €"
     },
     {
-      "name": "Bottoni automatici Prym da cucire Nero 15mm",
-      "url": "https://www.tessiland.com/it/automatici/20254-bottoni-automatici-prym-da-cucire-nero-15mm.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/20254/original/image_1.jpg",
-      "price": "3,60 €"
+      "name": "Kit Borsa fai da te Clic Clac Bowie",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/19950-kit-borsa-fai-da-te-clic-clac-bowie.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/19950/original/image_1.png",
+      "price": "23,20 €"
     },
     {
-      "name": "Chiusura a pulsante Square Oro",
-      "url": "https://www.tessiland.com/it/chiusure-a-pulsante/10577-chiusura-a-pulsante-square-oro.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/10577/original/image_1.jpg",
-      "price": "4,90 €"
+      "name": "Borsa Carrà Kit fai da te",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21350-borsa-carra-kit-fai-da-te.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21350/original/image_1.png",
+      "price": "31,70 €"
+    },
+    {
+      "name": "Secchiello Frangipani Kit fai da te",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21349-secchiello-frangipani-kit-fai-da-te.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21349/original/image_1.jpg",
+      "price": "30,40 €"
     }
   ]
 }
