@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-09T07:38:11.027Z",
+  "updated": "2026-07-10T07:30:59.749Z",
   "count": 6,
   "items": [
+    {
+      "name": "Gift Card",
+      "url": "https://www.tessiland.com/it/carta-regalo-1/20969-giftcard-gift-card.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/20969/original/image_1.jpg",
+      "price": "100,00 €"
+    },
     {
       "name": "Borsa Sea Shell Kit fai da te",
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21353-borsa-sea-shell-kit-fai-da-te.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21350-borsa-carra-kit-fai-da-te.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21350/original/image_1.png",
       "price": "31,70 €"
-    },
-    {
-      "name": "Secchiello Frangipani Kit fai da te",
-      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21349-secchiello-frangipani-kit-fai-da-te.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21349/original/image_1.jpg",
-      "price": "30,40 €"
     }
   ]
 }
