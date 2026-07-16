@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-15T06:10:11.046Z",
+  "updated": "2026-07-16T06:12:52.231Z",
   "count": 6,
   "items": [
+    {
+      "name": "Kid mohair e merinos gomitolo 50g",
+      "url": "https://www.tessiland.com/it/mohair-e-misti/21361-kid-mohair-e-merinos-gomitolo-50g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21361/original/image_1.jpg",
+      "price": "6,90 €"
+    },
     {
       "name": "Clutch Hop Kit fai da te",
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21356-clutch-hop-kit-fai-da-te.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21351-borsa-madreperla-kit-fai-da-te.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21351/original/image_1.jpg",
       "price": "46,90 €"
-    },
-    {
-      "name": "Kit Borsa fai da te Clic Clac Bowie",
-      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/19950-kit-borsa-fai-da-te-clic-clac-bowie.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/19950/original/image_1.png",
-      "price": "23,20 €"
     }
   ]
 }
