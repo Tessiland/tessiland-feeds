@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-04T06:22:48.332Z",
+  "updated": "2026-08-05T06:22:57.026Z",
   "count": 6,
   "items": [
+    {
+      "name": "Borsa Fiorino Kit fai da te",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21392-borsa-fiorino-kit-fai-da-te.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21392/original/image_1.jpg",
+      "price": "39,70 €"
+    },
+    {
+      "name": "Collana Sorbetto Kit fai da te",
+      "url": "https://www.tessiland.com/it/kit-accessori/21391-collana-sorbetto-kit-fai-da-te.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21391/original/image_1.png",
+      "price": "25,90 €"
+    },
     {
       "name": "Borsa Dean Kit fai da te",
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21381-borsa-dean-kit-fai-da-te.html",
@@ -25,18 +37,6 @@
       "url": "https://www.tessiland.com/it/set-borsa-in-ecopelle/21376-set-borsa-mini-birkin-fiorino.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21376/original/image_1.jpg",
       "price": "25,90 €"
-    },
-    {
-      "name": "Coral Pearl Kit fai da te",
-      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21375-coral-pearl-kit-fai-da-te.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21375/original/image_1.jpg",
-      "price": "38,10 €"
-    },
-    {
-      "name": "Kid mohair e merinos gomitolo 50g",
-      "url": "https://www.tessiland.com/it/mohair-e-misti/21361-kid-mohair-e-merinos-gomitolo-50g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21361/original/image_1.jpg",
-      "price": "6,90 €"
     }
   ]
 }
