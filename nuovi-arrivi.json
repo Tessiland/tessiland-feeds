@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-25T04:32:59.805Z",
+  "updated": "2026-08-26T04:33:52.294Z",
   "count": 6,
   "items": [
+    {
+      "name": "Borsa Riviera Kit fai da te",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21404-borsa-riviera-kit-fai-da-te.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21404/original/image_1.jpg",
+      "price": "38,20 €"
+    },
     {
       "name": "Borsa Profiterole Kit fai da te",
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21402-borsa-profiterole-kit-fai-da-te.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21382-borsa-savana-30-kit-fai-da-te.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21382/original/image_1.jpg",
       "price": "11,80 €"
-    },
-    {
-      "name": "Justin Swollen lana merinos extrafine gomitolo 100g",
-      "url": "https://www.tessiland.com/it/lana-baby/21293-justin-swollen-lana-merinos-extrafine-gomitolo-100g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21293/original/image_1.jpg",
-      "price": "7,90 €"
     }
   ]
 }
