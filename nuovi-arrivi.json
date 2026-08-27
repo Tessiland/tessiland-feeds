@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-26T04:33:52.294Z",
+  "updated": "2026-08-27T14:55:34.623Z",
   "count": 6,
   "items": [
+    {
+      "name": "Atenea Tones Katia lana cotone e cashmere gomitolo 25g",
+      "url": "https://www.tessiland.com/it/cashmere-e-pregiati/21414-atenea-tones-katia-lana-cotone-e-cashmere-gomitolo-25g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21414/original/image_1.jpg",
+      "price": "8,50 €"
+    },
+    {
+      "name": "Alpaca Socks e More Katia lana per calze gomitolo 50g",
+      "url": "https://www.tessiland.com/it/alpaca-e-misti/21407-alpaca-socks-e-more-katia-lana-per-calze-gomitolo-50g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21407/original/image_1.jpg",
+      "price": "8,90 €"
+    },
+    {
+      "name": "Alpaca Silver Katia lana alpaca argentata gomitolo 25g",
+      "url": "https://www.tessiland.com/it/alpaca-e-misti/21406-alpaca-silver-katia-lana-alpaca-argentata-gomitolo-25g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21406/original/image_1.jpg",
+      "price": "5,99 €"
+    },
+    {
+      "name": "Alpaca Lace Katia lana alpaca e viscosa gomitolo 50g",
+      "url": "https://www.tessiland.com/it/alpaca-e-misti/21405-alpaca-lace-katia-lana-alpaca-e-viscosa-gomitolo-50g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21405/original/image_1.jpg",
+      "price": "9,50 €"
+    },
     {
       "name": "Borsa Riviera Kit fai da te",
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21404-borsa-riviera-kit-fai-da-te.html",
@@ -13,30 +37,6 @@
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21402-borsa-profiterole-kit-fai-da-te.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21402/original/image_1.jpg",
       "price": "45,10 €"
-    },
-    {
-      "name": "Borsa Fiorino Kit fai da te",
-      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21392-borsa-fiorino-kit-fai-da-te.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21392/original/image_1.jpg",
-      "price": "39,70 €"
-    },
-    {
-      "name": "Collana Sorbetto Kit fai da te",
-      "url": "https://www.tessiland.com/it/kit-accessori/21391-collana-sorbetto-kit-fai-da-te.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21391/original/image_1.png",
-      "price": "25,90 €"
-    },
-    {
-      "name": "Borsa Dean Kit fai da te",
-      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21381-borsa-dean-kit-fai-da-te.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21381/original/image_1.jpg",
-      "price": "21,90 €"
-    },
-    {
-      "name": "Borsa Savana 3.0 Kit fai da te",
-      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21382-borsa-savana-30-kit-fai-da-te.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21382/original/image_1.jpg",
-      "price": "11,80 €"
     }
   ]
 }
