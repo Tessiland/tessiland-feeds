@@ -1,12 +1,30 @@
 {
-  "updated": "2026-09-04T08:24:14.797Z",
+  "updated": "2026-09-05T07:59:33.465Z",
   "count": 6,
   "items": [
+    {
+      "name": "Silky Mohair Katia lana mohair e seta gomitolo 25g",
+      "url": "https://www.tessiland.com/it/mohair-e-misti/21447-silky-mohair-katia-lana-mohair-e-seta-gomitolo-25g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21447/original/image_1.jpg",
+      "price": "7,95 €"
+    },
+    {
+      "name": "Silky Lace Rainbow Katia lana e seta sfumata gomitolo 50g",
+      "url": "https://www.tessiland.com/it/lana-baby/21446-silky-lace-rainbow-katia-lana-e-seta-sfumata-gomitolo-50g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21446/original/image_1.jpg",
+      "price": "9,50 €"
+    },
     {
       "name": "Silk Alpaca Katia lana alpaca e seta boucle gomitolo 25g",
       "url": "https://www.tessiland.com/it/alpaca-e-misti/21445-silk-alpaca-katia-lana-alpaca-e-seta-boucle-gomitolo-25g.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21445/original/image_1.jpg",
       "price": "7,95 €"
+    },
+    {
+      "name": "Paint Lover Katia lana sfumata gomitolo 400g",
+      "url": "https://www.tessiland.com/it/misti-lana/21444-paint-lover-katia-lana-sfumata-gomitolo-400g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21444/original/image_1.jpg",
+      "price": "22,95 €"
     },
     {
       "name": "Merino Ombrè Katia lana sfumata gomitolo 80g",
@@ -15,28 +33,10 @@
       "price": "8,95 €"
     },
     {
-      "name": "Borsa Macha Kit fai da te",
-      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21424-borsa-macha-kit-fai-da-te.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21424/original/image_1.png",
-      "price": "45,10 €"
-    },
-    {
-      "name": "Cotton Merino Katia cotone e lana merino gomitolo 50g",
-      "url": "https://www.tessiland.com/it/cotone-e-misti/21423-cotton-merino-katia-cotone-e-lana-merino-gomitolo-50g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21423/original/image_1.jpg",
-      "price": "5,99 €"
-    },
-    {
-      "name": "Cashmina Pailletes Katia lana e cashmere gomitolo 50g",
-      "url": "https://www.tessiland.com/it/cashmere-e-pregiati/21421-cashmina-pailletes-katia-lana-e-cashmere-gomitolo-50g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21421/original/image_1.jpg",
-      "price": "15,95 €"
-    },
-    {
-      "name": "Bulky Tweed Inspiration Katia lana sfumata gomitolo 300g",
-      "url": "https://www.tessiland.com/it/misti-lana/21420-bulky-tweed-inspiration-katia-lana-sfumata-gomitolo-300g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21420/original/image_1.jpg",
-      "price": "19,95 €"
+      "name": "Holi Katia lana sfumata cake gomitolo 200g",
+      "url": "https://www.tessiland.com/it/misti-lana/21430-holi-katia-lana-sfumata-cake-gomitolo-200g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21430/original/image_1.jpg",
+      "price": "16,95 €"
     }
   ]
 }
