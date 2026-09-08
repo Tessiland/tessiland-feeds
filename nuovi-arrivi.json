@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-07T08:50:18.418Z",
+  "updated": "2026-09-08T08:30:19.972Z",
   "count": 6,
   "items": [
+    {
+      "name": "Borsa College Jovy",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21458-borsa-college-jovy.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21458/original/image_1.jpg",
+      "price": "55,35 €"
+    },
     {
       "name": "Silky Mohair Katia lana mohair e seta gomitolo 25g",
       "url": "https://www.tessiland.com/it/mohair-e-misti/21447-silky-mohair-katia-lana-mohair-e-seta-gomitolo-25g.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/misti-lana/21442-merino-ombre-katia-lana-sfumata-gomitolo-80g.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21442/original/image_1.jpg",
       "price": "8,95 €"
-    },
-    {
-      "name": "Holi Katia lana sfumata cake gomitolo 200g",
-      "url": "https://www.tessiland.com/it/misti-lana/21430-holi-katia-lana-sfumata-cake-gomitolo-200g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21430/original/image_1.jpg",
-      "price": "16,95 €"
     }
   ]
 }
