@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-08T08:30:19.972Z",
+  "updated": "2026-09-09T08:33:04.036Z",
   "count": 6,
   "items": [
+    {
+      "name": "Shirley lana merino e alpaca gomitolo 50g",
+      "url": "https://www.tessiland.com/it/misti-lana/21459-shirley-lana-merino-e-alpaca-gomitolo-50g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21459/original/image_1.jpg",
+      "price": "6,90 €"
+    },
     {
       "name": "Borsa College Jovy",
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21458-borsa-college-jovy.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/misti-lana/21444-paint-lover-katia-lana-sfumata-gomitolo-400g.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21444/original/image_1.jpg",
       "price": "22,95 €"
-    },
-    {
-      "name": "Merino Ombrè Katia lana sfumata gomitolo 80g",
-      "url": "https://www.tessiland.com/it/misti-lana/21442-merino-ombre-katia-lana-sfumata-gomitolo-80g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21442/original/image_1.jpg",
-      "price": "8,95 €"
     }
   ]
 }
