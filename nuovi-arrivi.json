@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:27:39.561Z",
+  "updated": "2026-09-20T08:59:07.581Z",
   "count": 6,
   "items": [
     {
@@ -13,6 +13,12 @@
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21458-borsa-college-jovy.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21458/original/image_1.jpg",
       "price": "55,35 €"
+    },
+    {
+      "name": "Silky Mohair Pailletes Katia lana mohair gomitolo 25g",
+      "url": "https://www.tessiland.com/it/mohair-e-misti/21448-silky-mohair-pailletes-katia-lana-mohair-gomitolo-25g.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21448/original/image_1.jpg",
+      "price": "9,95 €"
     },
     {
       "name": "Silky Mohair Katia lana mohair e seta gomitolo 25g",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/alpaca-e-misti/21445-silk-alpaca-katia-lana-alpaca-e-seta-boucle-gomitolo-25g.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21445/original/image_1.jpg",
       "price": "7,95 €"
-    },
-    {
-      "name": "Paint Lover Katia lana sfumata gomitolo 400g",
-      "url": "https://www.tessiland.com/it/misti-lana/21444-paint-lover-katia-lana-sfumata-gomitolo-400g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21444/original/image_1.jpg",
-      "price": "22,95 €"
     }
   ]
 }
