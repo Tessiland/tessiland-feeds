@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-30T10:13:17.423Z",
+  "updated": "2026-10-01T10:39:26.913Z",
   "count": 6,
   "items": [
+    {
+      "name": "Kit Sacca Marsupio Mesh Bag",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21505-kit-sacca-marsupio-mesh-bag.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21505/original/image_1.jpg",
+      "price": "26,00 €"
+    },
     {
       "name": "Set borsa Koi vera pelle",
       "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21499-set-borsa-koi-vera-pelle.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/mohair-e-misti/21447-silky-mohair-katia-lana-mohair-e-seta-gomitolo-25g.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21447/original/image_1.jpg",
       "price": "7,95 €"
-    },
-    {
-      "name": "Silky Lace Rainbow Katia lana e seta sfumata gomitolo 50g",
-      "url": "https://www.tessiland.com/it/lana-baby/21446-silky-lace-rainbow-katia-lana-e-seta-sfumata-gomitolo-50g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21446/original/image_1.jpg",
-      "price": "9,50 €"
     }
   ]
 }
