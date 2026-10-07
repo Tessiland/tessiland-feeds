@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:58:10.836Z",
+  "updated": "2026-10-07T10:47:28.733Z",
   "count": 6,
   "items": [
     {
@@ -7,6 +7,12 @@
       "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21505-kit-sacca-marsupio-mesh-bag.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21505/original/image_1.jpg",
       "price": "26,00 €"
+    },
+    {
+      "name": "Kit Koi Bag",
+      "url": "https://www.tessiland.com/it/kit-borsa-fai-da-te/21501-kit-koi-bag.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21501/original/image_1.jpg",
+      "price": "48,30 €"
     },
     {
       "name": "Set borsa Koi vera pelle",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/mohair-e-misti/21448-silky-mohair-pailletes-katia-lana-mohair-gomitolo-25g.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21448/original/image_1.jpg",
       "price": "9,95 €"
-    },
-    {
-      "name": "Silky Mohair Katia lana mohair e seta gomitolo 25g",
-      "url": "https://www.tessiland.com/it/mohair-e-misti/21447-silky-mohair-katia-lana-mohair-e-seta-gomitolo-25g.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21447/original/image_1.jpg",
-      "price": "7,95 €"
     }
   ]
 }
