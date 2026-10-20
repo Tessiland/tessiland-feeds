@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-19T09:31:03.810Z",
+  "updated": "2026-10-20T09:03:59.528Z",
   "count": 6,
   "items": [
+    {
+      "name": "Anellini Chiusi in Metallo Oro e Argento per Bijoux",
+      "url": "https://www.tessiland.com/it/anelli-e-cerchi-per-bijoux/21527-anellini-chiusi-in-metallo-oro-e-argento-per-bijoux.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21527/original/image_1.jpg",
+      "price": "7,00 €"
+    },
     {
       "name": "Clic clac Iron Wood con manico",
       "url": "https://www.tessiland.com/it/clic-clac-in-legno/21520-clic-clac-iron-wood-con-manico.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/anelli-e-cerchi-per-bijoux/18380-anellini-chiusi-oro-20-mm-nickel-free-20-pz.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/18380/original/image_1.jpg",
       "price": "7,50 €"
-    },
-    {
-      "name": "Anellini chiusi oro 15 mm nickel free 30 pz",
-      "url": "https://www.tessiland.com/it/anelli-e-cerchi-per-bijoux/18379-anellini-chiusi-oro-15-mm-nickel-free-30-pz.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/18379/original/image_1.jpg",
-      "price": "7,90 €"
     }
   ]
 }
