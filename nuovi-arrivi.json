@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T10:58:35.536Z",
+  "updated": "2026-11-02T11:56:37.817Z",
   "count": 6,
   "items": [
+    {
+      "name": "Set borsa Yume vera pelle Bordeaux",
+      "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21529-set-borsa-yume-vera-pelle-bordeaux.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21529/original/image_1.jpg",
+      "price": "59,00 €"
+    },
     {
       "name": "Anellini Chiusi in Metallo Oro e Argento per Bijoux",
       "url": "https://www.tessiland.com/it/anelli-e-cerchi-per-bijoux/21527-anellini-chiusi-in-metallo-oro-e-argento-per-bijoux.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21523-fondo-borsa-30x10-ovale-in-vera-pelle-made-in-italy-con-piedini.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21523/original/image_1.jpg",
       "price": "13,50 €"
-    },
-    {
-      "name": "Fondo borsa 21X8 ovale in vera pelle made in Italy con piedini",
-      "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21522-fondo-borsa-21x8-ovale-in-vera-pelle-made-in-italy-con-piedini.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21522/original/image_1.jpg",
-      "price": "12,40 €"
     }
   ]
 }
