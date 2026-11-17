@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T12:22:03.586Z",
+  "updated": "2026-11-17T12:42:12.641Z",
   "count": 6,
   "items": [
+    {
+      "name": "Manico Roller",
+      "url": "https://www.tessiland.com/it/manici-in-resina/21544-manico-roller.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21544/original/image_1.jpg",
+      "price": "7,50 €"
+    },
     {
       "name": "Kit Abbigliamento fai da te Cardigan Amarena",
       "url": "https://www.tessiland.com/it/tutorial-e/19947-kit-abbigliamento-fai-da-te-cardigan-amarena.html",
@@ -30,12 +36,6 @@
       "name": "Manici Simples in vera pelle con moschettoni made in Italy",
       "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21526-manici-simples-in-vera-pelle-con-moschettoni-made-in-italy.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21526/original/image_1.jpg",
-      "price": "25,90 €"
-    },
-    {
-      "name": "Tracolla Mistral vera pelle made in Italy",
-      "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21525-tracolla-mistral-vera-pelle-made-in-italy.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21525/original/image_1.jpg",
       "price": "25,90 €"
     }
   ]
