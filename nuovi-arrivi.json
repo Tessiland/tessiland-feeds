@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-22T12:13:16.365Z",
+  "updated": "2026-11-23T13:56:41.644Z",
   "count": 6,
   "items": [
+    {
+      "name": "Set borsa Koi vera pelle",
+      "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21545-set-borsa-koi-vera-pelle.html",
+      "image": "https://ecom.mailinblue.com/2330746/images/products/21545/original/image_1.jpg",
+      "price": "36,50 €"
+    },
     {
       "name": "Manico Roller",
       "url": "https://www.tessiland.com/it/manici-in-resina/21544-manico-roller.html",
@@ -31,12 +37,6 @@
       "url": "https://www.tessiland.com/it/anelli-e-cerchi-per-bijoux/21527-anellini-chiusi-in-metallo-oro-e-argento-per-bijoux.html",
       "image": "https://ecom.mailinblue.com/2330746/images/products/21527/original/image_1.jpg",
       "price": "7,00 €"
-    },
-    {
-      "name": "Manici Simples in vera pelle con moschettoni made in Italy",
-      "url": "https://www.tessiland.com/it/vera-pelle-per-borse/21526-manici-simples-in-vera-pelle-con-moschettoni-made-in-italy.html",
-      "image": "https://ecom.mailinblue.com/2330746/images/products/21526/original/image_1.jpg",
-      "price": "25,90 €"
     }
   ]
 }
